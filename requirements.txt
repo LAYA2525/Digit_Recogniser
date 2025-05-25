@@ -1,5 +1,7 @@
 numpy
 matplotlib
-tensorflow
 scikit-learn
-
+streamlit
+streamlit-drawable-canvas
+pillow
+joblib
